@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "949420646547",
+    "project_id": "nmit-hacks-23",
+    "storage_bucket": "nmit-hacks-23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949420646547:android:cc4a0bbaae6596c9bc6d66",
+        "android_client_info": {
+          "package_name": "com.nmit_hacks2.nmit_hacks2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "949420646547-nfi668lmli4nsfnscomkaditdm5dknch.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDV0ucEDDEVrTKJLR8HfAszzmX_QANuO40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "949420646547-nfi668lmli4nsfnscomkaditdm5dknch.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
